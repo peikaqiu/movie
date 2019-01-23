@@ -1,0 +1,40 @@
+{
+  "movie":[
+    {
+      "title":"豆瓣电影 Top250",
+      "name":"近期热门剧",
+      "id":0,
+      "total":250,
+      "notic":[
+        {"name":"肖申克的救赎","img":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480747492.jpg","scord":"9.6","rating":1},
+        {"name":"霸王别姬","img":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910813120.jpg","scord":"9.6","rating":2},
+        {"name":"这个杀手不太冷","img":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p511118051.jpg","scord":"9.4","rating":3},
+        {"name":"阿甘正传","img":"https://img1.doubanio.com/view/photo/s_ratio_poster/public/p510876377.jpg","scord":"9.4","rating":4}
+      ]
+    },
+    {
+      "title":"一周口碑电影榜",
+      "name":"日剧",
+      "id":1,
+      "total":10,
+      "notic":[
+        {"name":"罗马","img":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2537733205.jpg","scord":"8.5","rating":1},
+        {"name":"利兹与青鸟","img":"https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2515806508.jpg","scord":"8.2","rating":2},
+        {"name":"此房是我造","img":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2537243896.jpg","scord":"8.0","rating":3},
+        {"name":"希斯特斯兄弟","img":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2532762036.jpg","scord":"7.8","rating":4}
+      ]
+    },
+    {
+      "title":"北美票房榜",
+      "name":"美剧",
+      "id":2,
+      "total":14,
+      "notic":[
+        {"name":"蜘蛛侠：平行宇宙","img":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2542867516.jpg","scord":"9.0","rating":1},
+        {"name":"骡子","img":"https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2537926807.jpg","scord":"7.9","rating":2},
+        {"name":"绿毛怪格林奇","img":"https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2539666559.jpg","scord":"6.4","rating":3},
+        {"name":"无敌破坏王2：大闹互联网","img":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2537667301.jpg","scord":"8.2","rating":4}
+      ]
+    }
+  ]
+}
